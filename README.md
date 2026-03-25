@@ -2,17 +2,17 @@
 <h3 align="center">Desenvolvedor Fullstack apaixonado por tecnologia e inovação 🚀</h3>
 
 <p align="center">
-  <a href="mailto:muriloj2702@gmail.com"><img src="https://img.shields.io/badge/Email-muriloj2702@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/murilojrmarques" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Murilo%20Junior%20Marques-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muriloj2702@gmail.com"><img src="https://img.shields.io/badge/Email-muriloj2702@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/murilojrmarques" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Murilo%20Junior%20Marques-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Atualmente desenvolvendo soluções web e mobile robustas e escaláveis  
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca (até 12/2025)  
-- 🌍 Franca/SP — Brasil  
+- 💼 Atualmente desenvolvendo soluções web e mobile robustas e escaláveis  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca (até 12/2025)  
+- 🌍 Franca/SP — Brasil  
 
 ---
 
@@ -28,6 +28,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛢️ Banco de Dados & IA
@@ -40,12 +41,13 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloJrMarques&show_icons=true&theme=dracula&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJrMarques&layout=compact&langs_count=7&theme=dracula&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloJrMarques&show_icons=true&theme=dracula&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJrMarques&layout=compact&langs_count=7&theme=dracula&hide_border=false" />
 </p>
