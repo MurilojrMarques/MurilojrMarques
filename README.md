@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 - 💼 Atualmente desenvolvendo soluções web e mobile robustas e escaláveis  
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca (até 12/2025)  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca (até 12/2026)  
 - 🌍 Franca/SP — Brasil  
 
 ---
